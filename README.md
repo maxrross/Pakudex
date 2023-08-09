@@ -1,0 +1,2 @@
+# Pakudex
+Constructed a creature management system, termed 'Pakudex', using Java. The application maintains a list of creatures (Pakuri) with abilities to add new creatures, evolve existing ones, sort them by species name, and retrieve their stats (attack, defense, speed). The Pakudex is also capable of handling capacity limits and can return data about the number of critters it currently stores as well as its maximum capacity. User-friendly error handling is implemented for edge cases, such as trying to evolve or retrieve stats of a non-existing creature.
